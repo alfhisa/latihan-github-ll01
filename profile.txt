@@ -1,3 +1,4 @@
 Nama: (isi nama)
 Kelas: (isi kelas)
 Hobi: (isi hobi)
+Skill: Git dasar
